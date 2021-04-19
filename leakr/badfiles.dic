@@ -1,0 +1,2 @@
+;; This is used in Chromium, so allow GYP files
+$RE:\.gypi?(.bak)?$;0;Allow GYP files
